@@ -7,12 +7,23 @@
 
 ##
 
-<!-- ![limaleonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=limaleonardo&show_icons=true&theme=tokyonight) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/limaleonardo/github-readme-stats) -->
-
 <div>
   <a href="https://github.com/limaleonardo"/>
   <img height="180mm" src="https://github-readme-stats.vercel.app/api?username=limaleonardo&show_icons=true&theme=tokyonight"/>
   <img height="180mm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limaleonardo&layout=compact&langs_count=4&theme=tokyonight"
 </div>
-    
+
+<div style="display:inline_block;"><br>
+  <img height="50mm" width="60mm" alt="Typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="50mm" width="60mm" alt="Javascript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="50mm" width="60mm" alt="HTML logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img height="50mm" width="60mm" alt="CSS logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img height="50mm" width="60mm" alt="React logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="50mm" width="60mm" alt="Node logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="50mm" width="60mm" alt="Python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img height="50mm" width="60mm" alt="MongoDB logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img height="50mm" width="60mm" alt="MySQL logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="50mm" width="60mm" alt="Docker logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img height="50mm" width="60mm" alt="Jest logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img height="50mm" width="60mm" alt="Figma logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+ </br></div>
