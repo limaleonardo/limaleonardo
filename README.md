@@ -1,6 +1,6 @@
-### Oi, eu sou o Léo! 👋 Vamos trabalhar juntos ?
+### Oi, eu sou o Léo! 👋
 
-- 🔭 Atualmente estou aberto a novas propostas de trabaho e atuando em projetos pessoais
+- 🔭 Atualmente atuo como Eng. de sistemas trainee (EC) no Pagbank Pagseguro
 - 🌱 Estou estudando typescript, arquitetura de software e testes automatizados
 - 👯 Estou disponível para colaboração em projetos em Nodejs
 - 😄 Pronomes: Ele/dele
