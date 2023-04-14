@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://github.com/limaleonardo"/>
-  <img height="180mm" src="https://github-readme-stats.vercel.app/api?username=limaleonardo&show_icons=true&theme=tokyonight"/>
+  <img height="180mm" src="https://github-readme-stats.vercel.app/api?username=limaleonardo&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180mm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limaleonardo&layout=compact&langs_count=4&theme=tokyonight"
 </div>
 
