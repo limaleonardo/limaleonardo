@@ -1,8 +1,7 @@
 ### Oi, eu sou o Léo! 👋
 
-- 🔭 Atualmente atuo como Eng. de sistemas trainee (EC) no Pagbank Pagseguro
-- 🌱 Estou estudando typescript, arquitetura de software e testes automatizados
-- 👯 Estou disponível para colaboração em projetos em Nodejs
+- 🔭 Atualmente atuo como Eng. de sistemas no Pagbank Pagseguro
+- 👯 Estou disponível para colaboração em projetos em Nodejs, Python
 - 😄 Pronomes: Ele/dele
 
 ##
